@@ -1,28 +1,28 @@
 <h1> Hola, soy Alfredo 👋</h1>
 
-Soy especialista en datos, cuento con más de 7 años de experiencia colaborando con emprendedores, dueños de negocio, lideres y directores corporativos, ayudandolos a transformar datos en resultados. 
+Soy especialista de datos, cuento con más de 7 años de experiencia colaborando con emprendedores, dueños de negocio, lideres y directores corporativos, ayudandolos a transformar datos en resultados. 
 
-Mi enfoque integral me permite conocer todo el ciclo de datos, lo que me permite evaluar la calidad de la información desde su origen, diagnosticar su estado actual y diseñar e implementar soluciones avanzadas, garantizando información confiable y habilitando proyectos de mayor alcance que trascienden los dashboards y reportes convencionales: modelos predictivos, reportes estrategicos, reportes de diagnóstico basado en datos, dashboards interactivos, análisis de sentimiento usando LLM.
+He desempeñado diferentes roles dentro del departamento de datos como: <b>Analista de Datos, Analista de Inteligencia de Negocio (BI), Coordinador de Datos, Consultor</b>, entre otros. Algunos de los sectores en los que he trabajado incluyen: <b>Finanzas Bursátiles, Recursos Humanos, Educación, Deportes y Salud.</b>
 
+<h3>Lo que han obtenido las empresas:</h3>
 
-<h3>Lo que obtienen las empresas:</h3>
+- Visibilidad total de la información en tiempo real: al centralizar y estructurar los datos, la dirección detecta fugas, ineficiencias o sobrecostos que antes permanecían ocultos, mejorando la rentabilidad.
+
+- Toma de decisiones con respaldo en datos: dashboards, reportes y modelos predictivos permiten anticipar escenarios de negocio (picos de demanda, rotación de personal, cambios en clientes) y actuar antes de que se conviertan en problemas.
 
 - Reducción de tiempos y costos operativos: mediante automatización de procesos repetitivos, libero hasta un 75% de recursos que antes se destinaban a tareas manuales, permitiendo enfocarlos en actividades estratégicas.
 
-- Visibilidad total de la información: al centralizar y estructurar los datos, la dirección detecta fugas, ineficiencias o sobrecostos que antes permanecían ocultos, mejorando la rentabilidad.
-
-- Toma de decisiones con respaldo en datos: dashboards y modelos predictivos permiten anticipar escenarios de negocio (picos de demanda, rotación de personal, cambios en clientes) y actuar antes de que se conviertan en problemas.
-
 - Escalabilidad sin fricciones: una infraestructura de datos confiable hace que la empresa pueda crecer, abrir nuevas sucursales o integrar más usuarios sin perder control ni calidad en la información.
 <br>
-
 
 <h3 align="center">
   “He visto cómo la dispersión, mala calidad o ausencia de los datos generan frustración en equipos directivos: 
   tiempo perdido, recursos mal asignados y decisiones con incertidumbre. 
   Mi trabajo es ordenar ese caos y entregar claridad para decidir con confianza.”
-<h3/div>
-
+</h3>
+<br>
+Mi enfoque integral me permite conocer todo el ciclo de datos, lo que me permite evaluar la calidad de la información desde su origen, diagnosticar su estado actual y diseñar e implementar soluciones avanzadas, garantizando información confiable y habilitando proyectos de mayor alcance que trascienden los dashboards y reportes convencionales:<b> Modelos Predictivos, Reportes Estrategicos y de Diagnóstico, Propuesta de KPI´s y OKR's basado en datos, Dashboards Interactivos, Análisis de sentimiento, etc.</b>
+<br>
 <br>
 
 ## Tecnología que utilizo <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 

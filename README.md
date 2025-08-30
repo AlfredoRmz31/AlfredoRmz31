@@ -32,8 +32,8 @@ Mi enfoque integral me permite conocer todo el ciclo de datos, lo que me permite
   <img height="60" src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png">
   <img height="60" src="https://pandas.pydata.org/static/img/pandas_secondary.svg">
   <img height="60" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg">
-  <img height="55" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png">
-  <img height="55" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+  <img height="50" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png">
+  <img height="50" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
   <img height="65" src="https://embed.zenn.studio/api/optimize-og-image/26db74eefbf565c20234/https%3A%2F%2Fcolab.research.google.com%2Fimg%2Fcolab_favicon_256px.png">
   <img height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqvREgueCenWgK3AOYf2Ggyz-jOISn5uJfg&s">
   <img height="60" src="https://www.svgrepo.com/show/354012/looker-icon.svg">

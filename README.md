@@ -32,6 +32,7 @@ Mi enfoque integral me permite conocer todo el ciclo de datos, lo que me permite
   <img height="60" src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png">
   <img height="60" src="https://pandas.pydata.org/static/img/pandas_secondary.svg">
   <img height="60" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg">
+  <img height="55" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png">
   <img height="55" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
   <img height="65" src="https://embed.zenn.studio/api/optimize-og-image/26db74eefbf565c20234/https%3A%2F%2Fcolab.research.google.com%2Fimg%2Fcolab_favicon_256px.png">
   <img height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqvREgueCenWgK3AOYf2Ggyz-jOISn5uJfg&s">
@@ -49,13 +50,15 @@ Mi enfoque integral me permite conocer todo el ciclo de datos, lo que me permite
   <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Microsoft_Planner_%282024%E2%80%93present%29.svg">
 </p>
 <br>
-<h3 align="center">APIS y Servicios Externos</h3>
+<h3 align="center">APIS, ERPs y CRMs</h3>
 <p align="center">
   <img height="55" src="https://cdn.worldvectorlogo.com/logos/google-analytics-4.svg">
   <img height="50" src="https://cdn.worldvectorlogo.com/logos/google-my-business-logo.svg">
   <img height="50" src="https://cdn.worldvectorlogo.com/logos/meta-3.svg">
   <img height="65" src="https://www.minicar-parts.nl/static/version1749558857/frontend/Vicus/minicarparts/en_US/images/trengo-logo.png">
+  <img height="65" src="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-dynamics-365-logo.png">
   <img height="65" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuh0zyZFEHQlLJtlS6zXHy_2cZ_Amr_vA6BA&s">
+
 
 </p>
 <br>

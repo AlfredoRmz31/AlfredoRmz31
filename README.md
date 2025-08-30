@@ -52,7 +52,7 @@ Mi enfoque integral me permite conocer todo el ciclo de datos, lo que me permite
 <h3 align="center">APIS y Servicios Externos</h3>
 <p align="center">
   <img height="55" src="https://cdn.worldvectorlogo.com/logos/google-analytics-4.svg">
-  <img height="55" src="https://cdn.worldvectorlogo.com/logos/google-my-business-logo.svg">
+  <img height="50" src="https://cdn.worldvectorlogo.com/logos/google-my-business-logo.svg">
   <img height="60" src="https://cdn.worldvectorlogo.com/logos/meta-3.svg">
   <img height="65" src="https://www.minicar-parts.nl/static/version1749558857/frontend/Vicus/minicarparts/en_US/images/trengo-logo.png">
   <img height="65" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuh0zyZFEHQlLJtlS6zXHy_2cZ_Amr_vA6BA&s">
@@ -61,12 +61,12 @@ Mi enfoque integral me permite conocer todo el ciclo de datos, lo que me permite
 <br>
 <h3 align="center">Herramientas de Microsoft</h3>
 <p align="center">
-  <img height="60" src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg">
-  <img height="60" src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint.svg">
-  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Microsoft_Lists_%282020-present%29.svg">
-  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg">
-  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Microsoft_Planner_%282024%E2%80%93present%29.svg">
+  <img height="55" src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg">
+  <img height="55" src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint.svg">
+  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Microsoft_Lists_%282020-present%29.svg">
+  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg">
+  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Microsoft_Planner_%282024%E2%80%93present%29.svg">
 </p>
 
 

@@ -53,7 +53,7 @@ Mi enfoque integral me permite conocer todo el ciclo de datos, lo que me permite
 <p align="center">
   <img height="55" src="https://cdn.worldvectorlogo.com/logos/google-analytics-4.svg">
   <img height="50" src="https://cdn.worldvectorlogo.com/logos/google-my-business-logo.svg">
-  <img height="60" src="https://cdn.worldvectorlogo.com/logos/meta-3.svg">
+  <img height="50" src="https://cdn.worldvectorlogo.com/logos/meta-3.svg">
   <img height="65" src="https://www.minicar-parts.nl/static/version1749558857/frontend/Vicus/minicarparts/en_US/images/trengo-logo.png">
   <img height="65" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuh0zyZFEHQlLJtlS6zXHy_2cZ_Amr_vA6BA&s">
 

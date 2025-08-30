@@ -1,4 +1,4 @@
-<h1> Hola, soy Alfredo 👋</h1>
+<h1> Hola, soy Alfredo <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="40px"> </h1>
 
 Soy especialista de datos, cuento con más de 7 años de experiencia colaborando con emprendedores, dueños de negocio, lideres y directores corporativos, ayudandolos a transformar datos en resultados. 
 

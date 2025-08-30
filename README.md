@@ -2,7 +2,7 @@
 
 Soy especialista de datos, cuento con más de 7 años de experiencia colaborando con emprendedores, dueños de negocio, lideres y directores corporativos, ayudandolos a transformar datos en resultados. 
 
-He desempeñado diferentes roles dentro del departamento de datos como: <b>Analista de Datos, Analista de Inteligencia de Negocio (BI), Coordinador de Datos, Consultor</b>, entre otros. Algunos de los sectores en los que he trabajado incluyen: <b>Finanzas Bursátiles, Recursos Humanos, Educación, Deportes y Salud.</b>
+He desempeñado diferentes roles dentro del departamento de datos como: <b>Analista de Datos, Analista de Inteligencia de Negocio (BI), Coordinador de Estadística y Minería de Datos, Consultor</b>, entre otros. Algunos de los sectores en los que he trabajado incluyen: <b>Finanzas Bursátiles, Recursos Humanos, Educación, Deportes y Salud.</b>
 
 <h3>Lo que han obtenido las empresas:</h3>
 

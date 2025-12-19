@@ -21,7 +21,7 @@ He desempeñado diferentes roles dentro del departamento de datos como: <b>Anali
   Mi trabajo es ordenar ese caos y entregar claridad para decidir con confianza.”
 </h3>
 <br>
-Mi enfoque integral me permite conocer todo el ciclo de datos, lo que me permite evaluar la calidad de la información desde su origen, diagnosticar su estado actual y diseñar e implementar soluciones avanzadas, garantizando información confiable y habilitando proyectos de mayor alcance que trascienden los dashboards y reportes convencionales:<b> Modelos Predictivos, Reportes Estrategicos y de Diagnóstico, Propuesta de KPI´s y OKR's basado en datos, Dashboards Interactivos, Análisis de sentimiento, etc.</b>
+Mi enfoque integral me permite conocer todo el ciclo de datos, lo que me permite evaluar la calidad de la información desde su origen, diagnosticar su estado actual y diseñar e implementar soluciones avanzadas, garantizando información confiable, habilitando proyectos de mayor alcance que trascienden los dashboards y reportes convencionales:<b> Modelos Predictivos, Reportes Estrategicos y de Diagnóstico, Propuesta de KPI´s y OKR's basado en datos, Dashboards Interactivos, Análisis de sentimiento, etc.</b>
 <br>
 <br>
 
